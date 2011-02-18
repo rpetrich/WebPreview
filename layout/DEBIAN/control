@@ -1,0 +1,9 @@
+Package: com.rpetrich.webpreview
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 0.1
+Description: Preview web links in a popup
+Name: WebPreview
+Depends: firmware (>= 3.0), mobilesubstrate
+Author: Ryan Petrich <rpetrich+kbthemer@gmail.com>
